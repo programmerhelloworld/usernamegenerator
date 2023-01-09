@@ -1,5 +1,5 @@
 /*
-Francesco Maresca's Username Generator.
+Francesco Maresca's Username Generator (Java GUI Edition).
 Copyright (C) 2023 Francesco Maresca (@programmerhelloworld). All rights reserved.
 */
 package com.francescomaresca.usernamegenerator.main;
