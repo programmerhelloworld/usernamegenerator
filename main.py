@@ -1,4 +1,4 @@
-# Copyright Francesco Maresca, 2023
+# Copyright Francesco Maresca, 2023. All rights reserved
 import random
 
 
