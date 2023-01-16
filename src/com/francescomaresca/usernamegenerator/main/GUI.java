@@ -1,6 +1,6 @@
 /*
 Francesco Maresca's Username Generator (Java GUI Edition).
-Main Class
+The runnable Class
 Copyright (C) 2023 Francesco Maresca (@programmerhelloworld). All rights reserved.
 */
 package com.francescomaresca.usernamegenerator.main;
